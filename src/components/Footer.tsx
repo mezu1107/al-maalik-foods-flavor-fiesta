@@ -164,8 +164,8 @@ const Footer = () => {
           </p>
 
           <p className="text-center">
-            Website Design and Developed by <span className="font-semibold text-primary">AM Enterprises</span> 
-              <span className="font-semibold text-primary"> <br />Your Digital Growth Partner  </span> ({new Date().getFullYear()})</p>
+            Website Design and Developed by
+              <span className="font-semibold text-primary"> <br />AM Your Digital Growth Partner  </span> ({new Date().getFullYear()})</p>
 
           <div className="flex gap-5">
             <Link to="/about" className="hover:text-primary">About</Link>
